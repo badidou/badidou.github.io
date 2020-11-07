@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .hero.has-background {
   position: relative;
   overflow: hidden;
@@ -14,3 +18,8 @@
 .hero-background.is-transparent {
   opacity: 0.5;
 } 
+
+footer {
+  background: #34495e !important;
+  color: white;
+}
